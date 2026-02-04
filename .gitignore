@@ -1,0 +1,21 @@
+# Data files - too large for Git
+*.csv
+*.parquet
+*.json
+data/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Passwords and keys - NEVER commit these!
+.env
+credentials.json
+*.key
+
+# Your IDE settings
+.vscode/
+.DS_Store
