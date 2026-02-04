@@ -1,3 +1,4 @@
 Database: PostgreSQL
-Version: 1.5
+Version: 2.0
 Debug: Enabled
+Feature: Enhanced
